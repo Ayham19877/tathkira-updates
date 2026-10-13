@@ -1,7 +1,7 @@
 {
-  "versionCode": 20261003,
-  "versionName": "1.2",
+  "versionCode": 20261004,
+  "versionName": "1.3",
   "date": "2026-10-13",
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/tathkira-updates/main/Tathkira_v1.2_0d0cab33.apk",
-  "notes": "إصلاح زر الرجوع (يرجع للشاشة السابقة بدل الخروج) + الكبس على أرخص الوجهات يفتح صفقة الحجز + تكبير مربع بحث المطارات"
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/tathkira-updates/main/Tathkira_v1.3_5ea305c4.apk",
+  "notes": "تحديث الأسعار تلقائياً عند الرجوع للتطبيق + كسر الكاش + عرض وقت آخر تحديث فوق النتائج + زر افحص الآن يحدث الأسعار فوراً"
 }
