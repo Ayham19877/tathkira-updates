@@ -1,7 +1,7 @@
 {
-  "versionCode": 20261006,
-  "versionName": "1.5",
+  "versionCode": 20261007,
+  "versionName": "1.6",
   "date": "2026-10-13",
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/tathkira-updates/main/Tathkira_v1.5_59544d82.apk",
-  "notes": "الكبس على أي صفقة يفتح صفحة تفاصيل كاملة (كل الخيارات + سجل الأسعار) + أزرار مقارنة الأسعار: Google Flights وSkyscanner وKAYAK وExpedia"
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/tathkira-updates/main/Tathkira_v1.6_8a440350.apk",
+  "notes": "خيار تواريخ مرنة تحت حقول التاريخ: بحث بدون تحديد تاريخ يعرض كل الرحلات المتاحة للوجهة مرتبة بالأرخص"
 }
