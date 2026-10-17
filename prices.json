@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:37:26Z",
+  "updated_at": "2026-10-17T11:37:28Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -34,7 +34,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 926.49,
+          "price": 926.59,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 3,
@@ -44,7 +44,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 930.99,
+          "price": 931.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -54,7 +54,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 930.99,
+          "price": 931.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -64,7 +64,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 930.99,
+          "price": 931.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -74,7 +74,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 930.99,
+          "price": 931.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -104,6 +104,10 @@
         },
         {
           "date": "2026-10-16",
+          "price": 925.59
+        },
+        {
+          "date": "2026-10-17",
           "price": 925.59
         }
       ]
@@ -211,6 +215,10 @@
         {
           "date": "2026-10-16",
           "price": 857.79
+        },
+        {
+          "date": "2026-10-17",
+          "price": 857.79
         }
       ]
     },
@@ -317,6 +325,10 @@
         {
           "date": "2026-10-16",
           "price": 857.79
+        },
+        {
+          "date": "2026-10-17",
+          "price": 857.79
         }
       ]
     },
@@ -422,6 +434,10 @@
         },
         {
           "date": "2026-10-16",
+          "price": 2016.29
+        },
+        {
+          "date": "2026-10-17",
           "price": 2016.29
         }
       ]
