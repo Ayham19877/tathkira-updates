@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T11:37:28Z",
+  "updated_at": "2026-10-18T11:37:27Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -13,26 +13,16 @@
       "return_date": "2026-12-08",
       "cabin": "economy",
       "cheapest": {
-        "price": 925.59,
+        "price": 926.59,
         "currency": "USD",
-        "airline": "Royal Jordanian",
-        "stops": 0,
-        "duration_min": 1665,
-        "depart_time": "2026-11-17T21:55",
-        "arrive_time": "2026-11-18T20:05",
+        "airline": "Lufthansa",
+        "stops": 3,
+        "duration_min": 3398,
+        "depart_time": "2026-11-17T16:15",
+        "arrive_time": "2026-11-18T23:30",
         "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
       },
       "options": [
-        {
-          "price": 925.59,
-          "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 0,
-          "duration_min": 1665,
-          "depart_time": "2026-11-17T21:55",
-          "arrive_time": "2026-11-18T20:05",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
-        },
         {
           "price": 926.59,
           "currency": "USD",
@@ -82,12 +72,22 @@
           "depart_time": "2026-11-17T14:16",
           "arrive_time": "2026-11-18T23:30",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
+        },
+        {
+          "price": 931.09,
+          "currency": "USD",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 3553,
+          "depart_time": "2026-11-17T13:40",
+          "arrive_time": "2026-11-18T23:30",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         }
       ],
       "per_passenger": {
-        "adult": 925.59,
-        "child": 694.19,
-        "infant": 92.56
+        "adult": 926.59,
+        "child": 694.94,
+        "infant": 92.66
       },
       "price_history": [
         {
@@ -109,6 +109,10 @@
         {
           "date": "2026-10-17",
           "price": 925.59
+        },
+        {
+          "date": "2026-10-18",
+          "price": 926.59
         }
       ]
     },
@@ -218,6 +222,10 @@
         },
         {
           "date": "2026-10-17",
+          "price": 857.79
+        },
+        {
+          "date": "2026-10-18",
           "price": 857.79
         }
       ]
@@ -329,6 +337,10 @@
         {
           "date": "2026-10-17",
           "price": 857.79
+        },
+        {
+          "date": "2026-10-18",
+          "price": 857.79
         }
       ]
     },
@@ -438,6 +450,10 @@
         },
         {
           "date": "2026-10-17",
+          "price": 2016.29
+        },
+        {
+          "date": "2026-10-18",
           "price": 2016.29
         }
       ]
