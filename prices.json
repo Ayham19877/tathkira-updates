@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T11:37:28Z",
+  "updated_at": "2026-10-23T11:37:27Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -34,53 +34,53 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 938.99,
+          "price": 1024.09,
           "currency": "USD",
-          "airline": "Lufthansa",
-          "stops": 2,
-          "duration_min": 2515,
-          "depart_time": "2026-11-17T16:15",
-          "arrive_time": "2026-11-18T23:30",
+          "airline": "Royal Jordanian",
+          "stops": 1,
+          "duration_min": 2295,
+          "depart_time": "2026-11-17T07:05",
+          "arrive_time": "2026-11-18T15:45",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 938.99,
+          "price": 1024.09,
           "currency": "USD",
-          "airline": "United Airlines",
-          "stops": 2,
-          "duration_min": 2515,
-          "depart_time": "2026-11-17T16:15",
-          "arrive_time": "2026-11-18T23:30",
+          "airline": "Royal Jordanian",
+          "stops": 1,
+          "duration_min": 2102,
+          "depart_time": "2026-11-17T10:18",
+          "arrive_time": "2026-11-18T15:45",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 943.49,
+          "price": 1024.09,
           "currency": "USD",
-          "airline": "Lufthansa",
-          "stops": 3,
-          "duration_min": 2435,
-          "depart_time": "2026-11-17T17:35",
-          "arrive_time": "2026-11-18T23:30",
+          "airline": "Royal Jordanian",
+          "stops": 1,
+          "duration_min": 1907,
+          "depart_time": "2026-11-17T13:33",
+          "arrive_time": "2026-11-18T15:45",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 943.49,
+          "price": 1024.09,
           "currency": "USD",
-          "airline": "Lufthansa",
-          "stops": 3,
-          "duration_min": 2622,
-          "depart_time": "2026-11-17T14:28",
-          "arrive_time": "2026-11-18T23:30",
+          "airline": "Royal Jordanian",
+          "stops": 1,
+          "duration_min": 2229,
+          "depart_time": "2026-11-17T08:26",
+          "arrive_time": "2026-11-18T16:00",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 943.49,
+          "price": 1024.09,
           "currency": "USD",
-          "airline": "Lufthansa",
-          "stops": 3,
-          "duration_min": 2670,
-          "depart_time": "2026-11-17T13:40",
-          "arrive_time": "2026-11-18T23:30",
+          "airline": "Royal Jordanian",
+          "stops": 1,
+          "duration_min": 2106,
+          "depart_time": "2026-11-17T10:29",
+          "arrive_time": "2026-11-18T16:00",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         }
       ],
@@ -128,6 +128,10 @@
         },
         {
           "date": "2026-10-22",
+          "price": 935.59
+        },
+        {
+          "date": "2026-10-23",
           "price": 935.59
         }
       ]
@@ -259,6 +263,10 @@
         {
           "date": "2026-10-22",
           "price": 857.79
+        },
+        {
+          "date": "2026-10-23",
+          "price": 857.79
         }
       ]
     },
@@ -389,6 +397,10 @@
         {
           "date": "2026-10-22",
           "price": 857.79
+        },
+        {
+          "date": "2026-10-23",
+          "price": 857.79
         }
       ]
     },
@@ -518,6 +530,10 @@
         },
         {
           "date": "2026-10-22",
+          "price": 1819.59
+        },
+        {
+          "date": "2026-10-23",
           "price": 1819.59
         }
       ]
