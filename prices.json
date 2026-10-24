@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:37:27Z",
+  "updated_at": "2026-10-24T11:37:32Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -13,81 +13,81 @@
       "return_date": "2026-12-08",
       "cabin": "economy",
       "cheapest": {
-        "price": 935.59,
+        "price": 924.68,
         "currency": "USD",
-        "airline": "Royal Jordanian",
-        "stops": 0,
-        "duration_min": 1665,
-        "depart_time": "2026-11-17T21:55",
-        "arrive_time": "2026-11-18T20:05",
+        "airline": "Lufthansa",
+        "stops": 4,
+        "duration_min": 4145,
+        "depart_time": "2026-11-17T20:43",
+        "arrive_time": "2026-11-19T16:25",
         "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
       },
       "options": [
         {
-          "price": 935.59,
+          "price": 924.68,
           "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 0,
-          "duration_min": 1665,
-          "depart_time": "2026-11-17T21:55",
-          "arrive_time": "2026-11-18T20:05",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 4145,
+          "depart_time": "2026-11-17T20:43",
+          "arrive_time": "2026-11-19T16:25",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1024.09,
+          "price": 924.74,
           "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 1,
-          "duration_min": 2295,
-          "depart_time": "2026-11-17T07:05",
-          "arrive_time": "2026-11-18T15:45",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 4341,
+          "depart_time": "2026-11-17T17:27",
+          "arrive_time": "2026-11-19T16:25",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1024.09,
+          "price": 951.18,
           "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 1,
-          "duration_min": 2102,
-          "depart_time": "2026-11-17T10:18",
-          "arrive_time": "2026-11-18T15:45",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 3887,
+          "depart_time": "2026-11-17T20:43",
+          "arrive_time": "2026-11-19T16:25",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1024.09,
+          "price": 951.18,
           "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 1,
-          "duration_min": 1907,
-          "depart_time": "2026-11-17T13:33",
-          "arrive_time": "2026-11-18T15:45",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 3887,
+          "depart_time": "2026-11-17T20:43",
+          "arrive_time": "2026-11-19T16:25",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1024.09,
+          "price": 951.24,
           "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 1,
-          "duration_min": 2229,
-          "depart_time": "2026-11-17T08:26",
-          "arrive_time": "2026-11-18T16:00",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 4083,
+          "depart_time": "2026-11-17T17:27",
+          "arrive_time": "2026-11-19T16:25",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1024.09,
+          "price": 951.24,
           "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 1,
-          "duration_min": 2106,
-          "depart_time": "2026-11-17T10:29",
-          "arrive_time": "2026-11-18T16:00",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 4083,
+          "depart_time": "2026-11-17T17:27",
+          "arrive_time": "2026-11-19T16:25",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         }
       ],
       "per_passenger": {
-        "adult": 935.59,
-        "child": 701.69,
-        "infant": 93.56
+        "adult": 924.68,
+        "child": 693.51,
+        "infant": 92.47
       },
       "price_history": [
         {
@@ -133,6 +133,10 @@
         {
           "date": "2026-10-23",
           "price": 935.59
+        },
+        {
+          "date": "2026-10-24",
+          "price": 924.68
         }
       ]
     },
@@ -266,6 +270,10 @@
         },
         {
           "date": "2026-10-23",
+          "price": 857.79
+        },
+        {
+          "date": "2026-10-24",
           "price": 857.79
         }
       ]
@@ -401,6 +409,10 @@
         {
           "date": "2026-10-23",
           "price": 857.79
+        },
+        {
+          "date": "2026-10-24",
+          "price": 857.79
         }
       ]
     },
@@ -534,6 +546,10 @@
         },
         {
           "date": "2026-10-23",
+          "price": 1819.59
+        },
+        {
+          "date": "2026-10-24",
           "price": 1819.59
         }
       ]
