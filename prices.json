@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T11:37:28Z",
+  "updated_at": "2026-10-26T11:37:38Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -38,8 +38,8 @@
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
-          "duration_min": 4413,
-          "depart_time": "2026-11-17T16:15",
+          "duration_min": 4324,
+          "depart_time": "2026-11-17T17:44",
           "arrive_time": "2026-11-19T16:25",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
@@ -141,6 +141,10 @@
         {
           "date": "2026-10-25",
           "price": 924.68
+        },
+        {
+          "date": "2026-10-26",
+          "price": 924.68
         }
       ]
     },
@@ -159,9 +163,9 @@
         "currency": "USD",
         "airline": "Turkish Airlines",
         "stops": 2,
-        "duration_min": 3270,
+        "duration_min": 2860,
         "depart_time": "2027-01-19T20:20",
-        "arrive_time": "2027-01-21T00:40",
+        "arrive_time": "2027-01-21T04:40",
         "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
       },
       "options": [
@@ -170,9 +174,19 @@
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
-          "duration_min": 3270,
+          "duration_min": 2860,
           "depart_time": "2027-01-19T20:20",
-          "arrive_time": "2027-01-21T00:40",
+          "arrive_time": "2027-01-21T04:40",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
+        },
+        {
+          "price": 857.79,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2670,
+          "depart_time": "2027-01-19T20:20",
+          "arrive_time": "2027-01-21T04:40",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         },
         {
@@ -210,19 +224,9 @@
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
-          "duration_min": 3270,
+          "duration_min": 2860,
           "depart_time": "2027-01-19T20:20",
-          "arrive_time": "2027-01-21T00:40",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
-        },
-        {
-          "price": 937.79,
-          "currency": "USD",
-          "airline": "Turkish Airlines",
-          "stops": 2,
-          "duration_min": 2620,
-          "depart_time": "2027-01-19T20:20",
-          "arrive_time": "2027-01-21T00:40",
+          "arrive_time": "2027-01-21T04:40",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         }
       ],
@@ -282,6 +286,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 857.79
+        },
+        {
+          "date": "2026-10-26",
           "price": 857.79
         }
       ]
@@ -425,6 +433,10 @@
         {
           "date": "2026-10-25",
           "price": 857.79
+        },
+        {
+          "date": "2026-10-26",
+          "price": 857.79
         }
       ]
     },
@@ -566,6 +578,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 1819.59
+        },
+        {
+          "date": "2026-10-26",
           "price": 1819.59
         }
       ]
