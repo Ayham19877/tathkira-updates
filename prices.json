@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:37:30Z",
+  "updated_at": "2026-10-28T11:37:27Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -149,6 +149,10 @@
         {
           "date": "2026-10-27",
           "price": 954.68
+        },
+        {
+          "date": "2026-10-28",
+          "price": 954.68
         }
       ]
     },
@@ -167,42 +171,12 @@
         "currency": "USD",
         "airline": "Turkish Airlines",
         "stops": 2,
-        "duration_min": 2860,
+        "duration_min": 2430,
         "depart_time": "2027-01-19T20:20",
-        "arrive_time": "2027-01-21T04:40",
+        "arrive_time": "2027-01-21T00:40",
         "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
       },
       "options": [
-        {
-          "price": 928.79,
-          "currency": "USD",
-          "airline": "Turkish Airlines",
-          "stops": 2,
-          "duration_min": 2860,
-          "depart_time": "2027-01-19T20:20",
-          "arrive_time": "2027-01-21T04:40",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
-        },
-        {
-          "price": 928.79,
-          "currency": "USD",
-          "airline": "Turkish Airlines",
-          "stops": 2,
-          "duration_min": 2670,
-          "depart_time": "2027-01-19T20:20",
-          "arrive_time": "2027-01-21T04:40",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
-        },
-        {
-          "price": 928.79,
-          "currency": "USD",
-          "airline": "Turkish Airlines",
-          "stops": 2,
-          "duration_min": 2620,
-          "depart_time": "2027-01-19T20:20",
-          "arrive_time": "2027-01-21T00:40",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
-        },
         {
           "price": 928.79,
           "currency": "USD",
@@ -228,9 +202,39 @@
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
-          "duration_min": 2625,
+          "duration_min": 2435,
           "depart_time": "2027-01-19T20:20",
           "arrive_time": "2027-01-21T00:45",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
+        },
+        {
+          "price": 995.59,
+          "currency": "USD",
+          "airline": "Qatar Airways",
+          "stops": 2,
+          "duration_min": 2950,
+          "depart_time": "2027-01-19T22:55",
+          "arrive_time": "2027-01-21T11:15",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
+        },
+        {
+          "price": 995.59,
+          "currency": "USD",
+          "airline": "Qatar Airways",
+          "stops": 2,
+          "duration_min": 2940,
+          "depart_time": "2027-01-19T22:55",
+          "arrive_time": "2027-01-21T11:15",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
+        },
+        {
+          "price": 995.59,
+          "currency": "USD",
+          "airline": "Qatar Airways",
+          "stops": 2,
+          "duration_min": 2575,
+          "depart_time": "2027-01-19T17:30",
+          "arrive_time": "2027-01-20T23:35",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         }
       ],
@@ -298,6 +302,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 928.79
+        },
+        {
+          "date": "2026-10-28",
           "price": 928.79
         }
       ]
@@ -449,6 +457,10 @@
         {
           "date": "2026-10-27",
           "price": 928.79
+        },
+        {
+          "date": "2026-10-28",
+          "price": 928.79
         }
       ]
     },
@@ -598,6 +610,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1819.59
+        },
+        {
+          "date": "2026-10-28",
           "price": 1819.59
         }
       ]
