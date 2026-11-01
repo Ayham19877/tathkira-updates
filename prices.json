@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T11:37:28Z",
+  "updated_at": "2026-11-01T12:37:33Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -165,6 +165,10 @@
         {
           "date": "2026-10-31",
           "price": 954.28
+        },
+        {
+          "date": "2026-11-01",
+          "price": 954.28
         }
       ]
     },
@@ -244,7 +248,7 @@
           "currency": "USD",
           "airline": "Qatar Airways",
           "stops": 2,
-          "duration_min": 2950,
+          "duration_min": 3360,
           "depart_time": "2027-01-19T22:55",
           "arrive_time": "2027-01-21T11:15",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
@@ -331,6 +335,10 @@
         {
           "date": "2026-10-31",
           "price": 928.79
+        },
+        {
+          "date": "2026-11-01",
+          "price": 928.79
         }
       ]
     },
@@ -406,13 +414,13 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
         },
         {
-          "price": 993.99,
+          "price": 995.59,
           "currency": "USD",
-          "airline": "Lufthansa",
-          "stops": 3,
-          "duration_min": 3115,
-          "depart_time": "2027-03-09T16:15",
-          "arrive_time": "2027-03-10T23:30",
+          "airline": "Qatar Airways",
+          "stops": 2,
+          "duration_min": 3185,
+          "depart_time": "2027-03-09T22:55",
+          "arrive_time": "2027-03-11T09:10",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
         }
       ],
@@ -496,6 +504,10 @@
         },
         {
           "date": "2026-10-31",
+          "price": 928.79
+        },
+        {
+          "date": "2026-11-01",
           "price": 928.79
         }
       ]
@@ -662,6 +674,10 @@
         },
         {
           "date": "2026-10-31",
+          "price": 1819.59
+        },
+        {
+          "date": "2026-11-01",
           "price": 1819.59
         }
       ]
