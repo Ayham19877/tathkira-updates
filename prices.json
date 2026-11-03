@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:37:27Z",
+  "updated_at": "2026-11-03T12:37:34Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -13,7 +13,7 @@
       "return_date": "2026-12-08",
       "cabin": "economy",
       "cheapest": {
-        "price": 954.28,
+        "price": 954.38,
         "currency": "USD",
         "airline": "Lufthansa",
         "stops": 4,
@@ -24,7 +24,7 @@
       },
       "options": [
         {
-          "price": 954.28,
+          "price": 954.38,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -34,7 +34,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 954.28,
+          "price": 954.38,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -44,7 +44,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 954.28,
+          "price": 954.38,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -54,7 +54,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 980.58,
+          "price": 980.78,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -64,7 +64,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 980.58,
+          "price": 980.78,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -74,7 +74,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 980.58,
+          "price": 980.78,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -85,9 +85,9 @@
         }
       ],
       "per_passenger": {
-        "adult": 954.28,
-        "child": 715.71,
-        "infant": 95.43
+        "adult": 954.38,
+        "child": 715.78,
+        "infant": 95.44
       },
       "price_history": [
         {
@@ -173,6 +173,10 @@
         {
           "date": "2026-11-02",
           "price": 954.28
+        },
+        {
+          "date": "2026-11-03",
+          "price": 954.38
         }
       ]
     },
@@ -347,6 +351,10 @@
         {
           "date": "2026-11-02",
           "price": 928.79
+        },
+        {
+          "date": "2026-11-03",
+          "price": 928.79
         }
       ]
     },
@@ -422,7 +430,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
         },
         {
-          "price": 993.99,
+          "price": 994.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 3,
@@ -520,6 +528,10 @@
         },
         {
           "date": "2026-11-02",
+          "price": 928.79
+        },
+        {
+          "date": "2026-11-03",
           "price": 928.79
         }
       ]
@@ -694,6 +706,10 @@
         },
         {
           "date": "2026-11-02",
+          "price": 1754.59
+        },
+        {
+          "date": "2026-11-03",
           "price": 1754.59
         }
       ]
