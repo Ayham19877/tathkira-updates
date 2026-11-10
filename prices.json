@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T12:38:14Z",
+  "updated_at": "2026-11-10T12:38:18Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -13,7 +13,7 @@
       "return_date": "2026-12-08",
       "cabin": "economy",
       "cheapest": {
-        "price": 983.19,
+        "price": 982.29,
         "currency": "USD",
         "airline": "Lufthansa",
         "stops": 4,
@@ -24,7 +24,7 @@
       },
       "options": [
         {
-          "price": 983.19,
+          "price": 982.29,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -34,7 +34,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1009.79,
+          "price": 1008.49,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -44,7 +44,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1009.79,
+          "price": 1008.49,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -54,7 +54,27 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1058.15,
+          "price": 1057.49,
+          "currency": "USD",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 4413,
+          "depart_time": "2026-11-17T16:15",
+          "arrive_time": "2026-11-19T16:25",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
+        },
+        {
+          "price": 1057.49,
+          "currency": "USD",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 4413,
+          "depart_time": "2026-11-17T16:15",
+          "arrive_time": "2026-11-19T16:25",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
+        },
+        {
+          "price": 1057.65,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -62,32 +82,12 @@
           "depart_time": "2026-11-17T20:43",
           "arrive_time": "2026-11-19T16:25",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
-        },
-        {
-          "price": 1058.15,
-          "currency": "USD",
-          "airline": "Lufthansa",
-          "stops": 4,
-          "duration_min": 4324,
-          "depart_time": "2026-11-17T17:44",
-          "arrive_time": "2026-11-19T16:25",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
-        },
-        {
-          "price": 1058.15,
-          "currency": "USD",
-          "airline": "Lufthansa",
-          "stops": 4,
-          "duration_min": 4413,
-          "depart_time": "2026-11-17T16:15",
-          "arrive_time": "2026-11-19T16:25",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         }
       ],
       "per_passenger": {
-        "adult": 983.19,
-        "child": 737.39,
-        "infant": 98.32
+        "adult": 982.29,
+        "child": 736.72,
+        "infant": 98.23
       },
       "price_history": [
         {
@@ -201,6 +201,10 @@
         {
           "date": "2026-11-09",
           "price": 983.19
+        },
+        {
+          "date": "2026-11-10",
+          "price": 982.29
         }
       ]
     },
@@ -219,12 +223,22 @@
         "currency": "USD",
         "airline": "Qatar Airways",
         "stops": 2,
-        "duration_min": 3295,
+        "duration_min": 3360,
         "depart_time": "2027-01-19T22:55",
         "arrive_time": "2027-01-21T11:15",
         "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
       },
       "options": [
+        {
+          "price": 995.59,
+          "currency": "USD",
+          "airline": "Qatar Airways",
+          "stops": 2,
+          "duration_min": 3360,
+          "depart_time": "2027-01-19T22:55",
+          "arrive_time": "2027-01-21T11:15",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
+        },
         {
           "price": 995.59,
           "currency": "USD",
@@ -260,27 +274,17 @@
           "currency": "USD",
           "airline": "Qatar Airways",
           "stops": 2,
+          "duration_min": 2985,
+          "depart_time": "2027-01-19T17:30",
+          "arrive_time": "2027-01-20T23:35",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
+        },
+        {
+          "price": 995.59,
+          "currency": "USD",
+          "airline": "Qatar Airways",
+          "stops": 2,
           "duration_min": 2920,
-          "depart_time": "2027-01-19T17:30",
-          "arrive_time": "2027-01-20T23:35",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
-        },
-        {
-          "price": 995.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
-          "duration_min": 2575,
-          "depart_time": "2027-01-19T17:30",
-          "arrive_time": "2027-01-20T23:35",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
-        },
-        {
-          "price": 995.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
-          "duration_min": 2565,
           "depart_time": "2027-01-19T17:30",
           "arrive_time": "2027-01-20T23:35",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
@@ -403,6 +407,10 @@
         {
           "date": "2026-11-09",
           "price": 995.59
+        },
+        {
+          "date": "2026-11-10",
+          "price": 995.59
         }
       ]
     },
@@ -435,6 +443,16 @@
           "duration_min": 1650,
           "depart_time": "2027-03-09T21:55",
           "arrive_time": "2027-03-10T20:05",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
+        },
+        {
+          "price": 994.99,
+          "currency": "USD",
+          "airline": "Lufthansa",
+          "stops": 3,
+          "duration_min": 3115,
+          "depart_time": "2027-03-09T16:15",
+          "arrive_time": "2027-03-10T23:30",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
         },
         {
@@ -475,16 +493,6 @@
           "duration_min": 2800,
           "depart_time": "2027-03-09T22:55",
           "arrive_time": "2027-03-11T09:10",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
-        },
-        {
-          "price": 995.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
-          "duration_min": 3310,
-          "depart_time": "2027-03-09T22:55",
-          "arrive_time": "2027-03-11T11:15",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
         }
       ],
@@ -604,6 +612,10 @@
         },
         {
           "date": "2026-11-09",
+          "price": 940.59
+        },
+        {
+          "date": "2026-11-10",
           "price": 940.59
         }
       ]
@@ -806,6 +818,10 @@
         },
         {
           "date": "2026-11-09",
+          "price": 1754.59
+        },
+        {
+          "date": "2026-11-10",
           "price": 1754.59
         }
       ]
