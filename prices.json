@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T12:38:17Z",
+  "updated_at": "2026-11-13T12:38:14Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -13,7 +13,7 @@
       "return_date": "2026-12-08",
       "cabin": "economy",
       "cheapest": {
-        "price": 982.99,
+        "price": 982.29,
         "currency": "USD",
         "airline": "Lufthansa",
         "stops": 4,
@@ -24,7 +24,7 @@
       },
       "options": [
         {
-          "price": 982.99,
+          "price": 982.29,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -34,7 +34,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 995.19,
+          "price": 994.39,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 3,
@@ -44,7 +44,17 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1005.29,
+          "price": 1004.49,
+          "currency": "USD",
+          "airline": "Lufthansa",
+          "stops": 4,
+          "duration_min": 3972,
+          "depart_time": "2026-11-17T16:15",
+          "arrive_time": "2026-11-19T16:25",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
+        },
+        {
+          "price": 1004.49,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -54,7 +64,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1005.29,
+          "price": 1004.49,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -64,17 +74,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
         },
         {
-          "price": 1005.29,
-          "currency": "USD",
-          "airline": "Lufthansa",
-          "stops": 4,
-          "duration_min": 3904,
-          "depart_time": "2026-11-17T16:15",
-          "arrive_time": "2026-11-19T16:25",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2026-11-17&leg2=AMM,DFW,2026-12-08"
-        },
-        {
-          "price": 1005.29,
+          "price": 1004.49,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
@@ -85,9 +85,9 @@
         }
       ],
       "per_passenger": {
-        "adult": 982.99,
-        "child": 737.24,
-        "infant": 98.3
+        "adult": 982.29,
+        "child": 736.72,
+        "infant": 98.23
       },
       "price_history": [
         {
@@ -213,6 +213,10 @@
         {
           "date": "2026-11-12",
           "price": 982.99
+        },
+        {
+          "date": "2026-11-13",
+          "price": 982.29
         }
       ]
     },
@@ -227,81 +231,81 @@
       "return_date": "2027-02-09",
       "cabin": "economy",
       "cheapest": {
-        "price": 987.89,
+        "price": 994.09,
         "currency": "USD",
         "airline": "Lufthansa",
         "stops": 4,
-        "duration_min": 2970,
+        "duration_min": 2995,
         "depart_time": "2027-01-19T15:45",
         "arrive_time": "2027-01-20T23:30",
         "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
       },
       "options": [
         {
-          "price": 987.89,
+          "price": 994.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
-          "duration_min": 2970,
+          "duration_min": 2995,
           "depart_time": "2027-01-19T15:45",
           "arrive_time": "2027-01-20T23:30",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         },
         {
-          "price": 987.89,
+          "price": 994.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
-          "duration_min": 3055,
+          "duration_min": 3080,
           "depart_time": "2027-01-19T14:20",
           "arrive_time": "2027-01-20T23:30",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         },
         {
-          "price": 987.89,
+          "price": 994.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
-          "duration_min": 3060,
+          "duration_min": 3085,
           "depart_time": "2027-01-19T14:15",
           "arrive_time": "2027-01-20T23:30",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         },
         {
-          "price": 987.89,
+          "price": 994.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
-          "duration_min": 3095,
+          "duration_min": 3120,
           "depart_time": "2027-01-19T13:40",
           "arrive_time": "2027-01-20T23:30",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         },
         {
-          "price": 987.89,
+          "price": 994.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
-          "duration_min": 3140,
+          "duration_min": 3165,
           "depart_time": "2027-01-19T12:55",
           "arrive_time": "2027-01-20T23:30",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         },
         {
-          "price": 987.89,
+          "price": 994.09,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 4,
-          "duration_min": 3170,
+          "duration_min": 3195,
           "depart_time": "2027-01-19T12:25",
           "arrive_time": "2027-01-20T23:30",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         }
       ],
       "per_passenger": {
-        "adult": 987.89,
-        "child": 740.92,
-        "infant": 98.79
+        "adult": 994.09,
+        "child": 745.57,
+        "infant": 99.41
       },
       "price_history": [
         {
@@ -427,6 +431,10 @@
         {
           "date": "2026-11-12",
           "price": 987.89
+        },
+        {
+          "date": "2026-11-13",
+          "price": 994.09
         }
       ]
     },
@@ -462,7 +470,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
         },
         {
-          "price": 995.49,
+          "price": 994.79,
           "currency": "USD",
           "airline": "Lufthansa",
           "stops": 3,
@@ -641,6 +649,10 @@
         {
           "date": "2026-11-12",
           "price": 940.59
+        },
+        {
+          "date": "2026-11-13",
+          "price": 940.59
         }
       ]
     },
@@ -655,7 +667,7 @@
       "return_date": "2027-01-08",
       "cabin": "economy",
       "cheapest": {
-        "price": 1754.59,
+        "price": 1819.59,
         "currency": "USD",
         "airline": "Turkish Airlines",
         "stops": 2,
@@ -666,7 +678,7 @@
       },
       "options": [
         {
-          "price": 1754.59,
+          "price": 1819.59,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -676,7 +688,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1754.59,
+          "price": 1819.59,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -686,7 +698,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1754.59,
+          "price": 1819.59,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -696,7 +708,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1754.59,
+          "price": 1819.59,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -706,7 +718,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1834.59,
+          "price": 1899.59,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -716,7 +728,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1834.59,
+          "price": 1899.59,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -727,9 +739,9 @@
         }
       ],
       "per_passenger": {
-        "adult": 1754.59,
-        "child": 1315.94,
-        "infant": 175.46
+        "adult": 1819.59,
+        "child": 1364.69,
+        "infant": 181.96
       },
       "price_history": [
         {
@@ -855,6 +867,10 @@
         {
           "date": "2026-11-12",
           "price": 1754.59
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1819.59
         }
       ]
     }
