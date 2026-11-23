@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T12:38:14Z",
+  "updated_at": "2026-11-23T12:38:09Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -247,16 +247,46 @@
       "return_date": "2027-02-09",
       "cabin": "economy",
       "cheapest": {
-        "price": 986.59,
+        "price": 978.59,
         "currency": "USD",
-        "airline": "Qatar Airways",
+        "airline": "Turkish Airlines",
         "stops": 2,
-        "duration_min": 3360,
-        "depart_time": "2027-01-19T22:55",
-        "arrive_time": "2027-01-21T11:15",
+        "duration_min": 2620,
+        "depart_time": "2027-01-19T20:20",
+        "arrive_time": "2027-01-21T00:40",
         "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
       },
       "options": [
+        {
+          "price": 978.59,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2620,
+          "depart_time": "2027-01-19T20:20",
+          "arrive_time": "2027-01-21T00:40",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
+        },
+        {
+          "price": 978.59,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2430,
+          "depart_time": "2027-01-19T20:20",
+          "arrive_time": "2027-01-21T00:40",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
+        },
+        {
+          "price": 986.59,
+          "currency": "USD",
+          "airline": "Qatar Airways",
+          "stops": 2,
+          "duration_min": 2895,
+          "depart_time": "2027-01-19T22:55",
+          "arrive_time": "2027-01-21T09:10",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
+        },
         {
           "price": 986.59,
           "currency": "USD",
@@ -286,42 +316,12 @@
           "depart_time": "2027-01-19T22:55",
           "arrive_time": "2027-01-21T11:15",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
-        },
-        {
-          "price": 986.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
-          "duration_min": 2940,
-          "depart_time": "2027-01-19T22:55",
-          "arrive_time": "2027-01-21T11:15",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
-        },
-        {
-          "price": 986.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
-          "duration_min": 2985,
-          "depart_time": "2027-01-19T17:30",
-          "arrive_time": "2027-01-20T23:35",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
-        },
-        {
-          "price": 986.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
-          "duration_min": 2920,
-          "depart_time": "2027-01-19T17:30",
-          "arrive_time": "2027-01-20T23:35",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-01-19&leg2=AMM,DFW,2027-02-09"
         }
       ],
       "per_passenger": {
-        "adult": 986.59,
-        "child": 739.94,
-        "infant": 98.66
+        "adult": 978.59,
+        "child": 733.94,
+        "infant": 97.86
       },
       "price_history": [
         {
@@ -487,6 +487,10 @@
         {
           "date": "2026-11-22",
           "price": 986.59
+        },
+        {
+          "date": "2026-11-23",
+          "price": 978.59
         }
       ]
     },
@@ -501,16 +505,56 @@
       "return_date": "2027-03-30",
       "cabin": "economy",
       "cheapest": {
-        "price": 986.59,
+        "price": 978.59,
         "currency": "USD",
-        "airline": "Qatar Airways",
+        "airline": "Turkish Airlines",
         "stops": 2,
-        "duration_min": 3310,
-        "depart_time": "2027-03-09T22:55",
-        "arrive_time": "2027-03-11T11:15",
+        "duration_min": 3245,
+        "depart_time": "2027-03-09T20:20",
+        "arrive_time": "2027-03-11T00:40",
         "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
       },
       "options": [
+        {
+          "price": 978.59,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 3245,
+          "depart_time": "2027-03-09T20:20",
+          "arrive_time": "2027-03-11T00:40",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
+        },
+        {
+          "price": 978.59,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2700,
+          "depart_time": "2027-03-09T20:20",
+          "arrive_time": "2027-03-11T00:40",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
+        },
+        {
+          "price": 978.59,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2375,
+          "depart_time": "2027-03-09T20:20",
+          "arrive_time": "2027-03-11T00:40",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
+        },
+        {
+          "price": 978.59,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2185,
+          "depart_time": "2027-03-09T20:20",
+          "arrive_time": "2027-03-11T00:40",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
+        },
         {
           "price": 986.59,
           "currency": "USD",
@@ -526,56 +570,16 @@
           "currency": "USD",
           "airline": "Qatar Airways",
           "stops": 2,
-          "duration_min": 2940,
-          "depart_time": "2027-03-09T22:55",
-          "arrive_time": "2027-03-11T11:15",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
-        },
-        {
-          "price": 986.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
           "duration_min": 2925,
           "depart_time": "2027-03-09T22:55",
           "arrive_time": "2027-03-11T11:15",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
-        },
-        {
-          "price": 986.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
-          "duration_min": 2935,
-          "depart_time": "2027-03-09T17:30",
-          "arrive_time": "2027-03-10T23:35",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
-        },
-        {
-          "price": 986.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
-          "duration_min": 2565,
-          "depart_time": "2027-03-09T17:30",
-          "arrive_time": "2027-03-10T23:35",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
-        },
-        {
-          "price": 986.59,
-          "currency": "USD",
-          "airline": "Qatar Airways",
-          "stops": 2,
-          "duration_min": 2550,
-          "depart_time": "2027-03-09T17:30",
-          "arrive_time": "2027-03-10T23:35",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,AMM,2027-03-09&leg2=AMM,DFW,2027-03-30"
         }
       ],
       "per_passenger": {
-        "adult": 986.59,
-        "child": 739.94,
-        "infant": 98.66
+        "adult": 978.59,
+        "child": 733.94,
+        "infant": 97.86
       },
       "price_history": [
         {
@@ -741,6 +745,10 @@
         {
           "date": "2026-11-22",
           "price": 986.59
+        },
+        {
+          "date": "2026-11-23",
+          "price": 978.59
         }
       ]
     },
@@ -755,7 +763,7 @@
       "return_date": "2027-01-08",
       "cabin": "economy",
       "cheapest": {
-        "price": 1899.39,
+        "price": 1984.39,
         "currency": "USD",
         "airline": "Turkish Airlines",
         "stops": 2,
@@ -766,7 +774,7 @@
       },
       "options": [
         {
-          "price": 1899.39,
+          "price": 1984.39,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -776,7 +784,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1899.39,
+          "price": 1984.39,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -786,7 +794,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1899.39,
+          "price": 1984.39,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -796,7 +804,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1899.39,
+          "price": 1984.39,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -806,7 +814,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1979.39,
+          "price": 2064.39,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -816,7 +824,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1979.39,
+          "price": 2064.39,
           "currency": "USD",
           "airline": "Turkish Airlines",
           "stops": 2,
@@ -827,9 +835,9 @@
         }
       ],
       "per_passenger": {
-        "adult": 1899.39,
-        "child": 1424.54,
-        "infant": 189.94
+        "adult": 1984.39,
+        "child": 1488.29,
+        "infant": 198.44
       },
       "price_history": [
         {
@@ -995,6 +1003,10 @@
         {
           "date": "2026-11-22",
           "price": 1899.39
+        },
+        {
+          "date": "2026-11-23",
+          "price": 1984.39
         }
       ]
     }
