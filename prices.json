@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T12:38:09Z",
+  "updated_at": "2026-11-28T12:38:12Z",
   "base_currency": "USD",
   "flights": [
     {
@@ -507,6 +507,10 @@
         {
           "date": "2026-11-27",
           "price": 978.59
+        },
+        {
+          "date": "2026-11-28",
+          "price": 978.59
         }
       ]
     },
@@ -781,6 +785,10 @@
         {
           "date": "2026-11-27",
           "price": 978.59
+        },
+        {
+          "date": "2026-11-28",
+          "price": 978.59
         }
       ]
     },
@@ -795,58 +803,18 @@
       "return_date": "2027-01-08",
       "cabin": "economy",
       "cheapest": {
-        "price": 1577.29,
+        "price": 2324.99,
         "currency": "USD",
         "airline": "Royal Jordanian",
         "stops": 2,
-        "duration_min": 2695,
+        "duration_min": 3009,
         "depart_time": "2026-12-11T21:55",
-        "arrive_time": "2026-12-13T07:40",
+        "arrive_time": "2026-12-13T08:00",
         "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
       },
       "options": [
         {
-          "price": 1577.29,
-          "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 2,
-          "duration_min": 2695,
-          "depart_time": "2026-12-11T21:55",
-          "arrive_time": "2026-12-13T07:40",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
-        },
-        {
-          "price": 1577.29,
-          "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 2,
-          "duration_min": 2470,
-          "depart_time": "2026-12-11T21:55",
-          "arrive_time": "2026-12-13T07:40",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
-        },
-        {
-          "price": 1577.29,
-          "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 2,
-          "duration_min": 2430,
-          "depart_time": "2026-12-11T21:55",
-          "arrive_time": "2026-12-13T03:15",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
-        },
-        {
-          "price": 1577.29,
-          "currency": "USD",
-          "airline": "Royal Jordanian",
-          "stops": 2,
-          "duration_min": 2205,
-          "depart_time": "2026-12-11T21:55",
-          "arrive_time": "2026-12-13T03:15",
-          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
-        },
-        {
-          "price": 1579.99,
+          "price": 2324.99,
           "currency": "USD",
           "airline": "Royal Jordanian",
           "stops": 2,
@@ -856,7 +824,7 @@
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         },
         {
-          "price": 1579.99,
+          "price": 2324.99,
           "currency": "USD",
           "airline": "Royal Jordanian",
           "stops": 2,
@@ -864,12 +832,52 @@
           "depart_time": "2026-12-11T21:55",
           "arrive_time": "2026-12-13T05:00",
           "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
+        },
+        {
+          "price": 2459.39,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2845,
+          "depart_time": "2026-12-11T20:20",
+          "arrive_time": "2026-12-13T04:40",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
+        },
+        {
+          "price": 2459.39,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2615,
+          "depart_time": "2026-12-11T20:20",
+          "arrive_time": "2026-12-13T04:40",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
+        },
+        {
+          "price": 2459.39,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2595,
+          "depart_time": "2026-12-11T20:20",
+          "arrive_time": "2026-12-13T00:30",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
+        },
+        {
+          "price": 2459.39,
+          "currency": "USD",
+          "airline": "Turkish Airlines",
+          "stops": 2,
+          "duration_min": 2365,
+          "depart_time": "2026-12-11T20:20",
+          "arrive_time": "2026-12-13T00:30",
+          "deep_link": "https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=DFW,DAM,2026-12-11&leg2=DAM,DFW,2027-01-08"
         }
       ],
       "per_passenger": {
-        "adult": 1577.29,
-        "child": 1182.97,
-        "infant": 157.73
+        "adult": 2324.99,
+        "child": 1743.74,
+        "infant": 232.5
       },
       "price_history": [
         {
@@ -1055,6 +1063,10 @@
         {
           "date": "2026-11-27",
           "price": 1577.29
+        },
+        {
+          "date": "2026-11-28",
+          "price": 2324.99
         }
       ]
     }
